@@ -1,0 +1,13 @@
+execute if score @s mahjongkey matches 2056667 run scoreboard players set @s mahjongvalue1 1090805145
+execute if score @s mahjongkey matches 2056687 run scoreboard players set @s mahjongvalue1 14172491
+execute if score @s mahjongkey matches 2056692 run scoreboard players set @s mahjongvalue1 21368274
+execute if score @s mahjongkey matches 2056700 run scoreboard players set @s mahjongvalue1 17156498
+execute if score @s mahjongkey matches 2056991 run scoreboard players set @s mahjongvalue1 17416594
+execute if score @s mahjongkey matches 2057023 run scoreboard players set @s mahjongvalue1 12943698
+execute if score @s mahjongkey matches 2057086 run scoreboard players set @s mahjongvalue1 12944722
+execute if score @s mahjongkey matches 2057179 run scoreboard players set @s mahjongvalue1 1086609753
+execute if score @s mahjongkey matches 2057204 run scoreboard players set @s mahjongvalue1 17157522
+execute if score @s mahjongkey matches 2057935 run scoreboard players set @s mahjongvalue1 13205842
+execute if score @s mahjongkey matches 2057974 run scoreboard players set @s mahjongvalue1 13130073
+execute if score @s mahjongkey matches 2058212 run scoreboard players set @s mahjongvalue1 17158546
+execute if score @s mahjongkey matches 2058220 run scoreboard players set @s mahjongvalue1 12946770
